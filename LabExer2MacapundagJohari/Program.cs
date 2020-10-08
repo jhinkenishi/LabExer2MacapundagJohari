@@ -22,6 +22,8 @@ namespace LabExer2MacapundagJohari
                 }
                 else
                 {
+                    //This is sparta
+                    Console.Write("Hi");
                     int x = Convert.ToInt32(str);
                     Console.Write("y = ");
                     int y = Convert.ToInt32(Console.ReadLine());
